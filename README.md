@@ -27,10 +27,10 @@ This project predicts customer churn using machine learning and identifies key f
 ## 📸 Visualizations
 
 ### Feature Importance
-![Feature Importance](outputs/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ### Confusion Matrix
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
