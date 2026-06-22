@@ -63,13 +63,13 @@ Both models were evaluated using:
 ## Pipeline
 
 Raw CSV
-  └── Data Cleaning (nulls, type fixes, duplicates)
-        └── Exploratory Data Analysis
-              └── Feature Engineering
-                    └── Train/Test Split (80/20, stratified)
-                          └── Model Training
-                                └── Evaluation
-                                      └── Risk-Segmented Output Report
+--  └── Data Cleaning (nulls, type fixes, duplicates)
+  --      └── Exploratory Data Analysis
+    --          └── Feature Engineering
+      --              └── Train/Test Split (80/20, stratified)
+        --                  └── Model Training
+          --                      └── Evaluation
+            --                          └── Risk-Segmented Output Report
 
 ---
 
@@ -109,7 +109,7 @@ customer-churn-analysis/
 
 ## How to Run
 
-git clone https://github.com/Kishoreyanduri/customer-churn-analysis
-cd customer-churn-analysis
-pip install pandas numpy matplotlib seaborn scikit-learn
-jupyter notebook notebooks/churn_analysis.ipynb
+-- git clone https://github.com/Kishoreyanduri/customer-churn-analysis
+-- cd customer-churn-analysis
+-- pip install pandas numpy matplotlib seaborn scikit-learn
+-- jupyter notebook notebooks/churn_analysis.ipynb
